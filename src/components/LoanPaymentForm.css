@@ -1,0 +1,36 @@
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #2d3539;
+}
+
+.form-group input, .form-group select {
+  border-radius: 20px;
+  padding: 12px 20px;
+  border: none;
+  outline: none;
+  border: 1px solid rgba(0, 0, 0, .05);
+  box-shadow: 0px 0px 30px 0px rgb(82 63 105 / 5%);
+  width: 100%;
+}
+
+.btn-submit {
+    outline: none;
+    background-color: #504983;
+    color: #fff;
+    border: none;
+    font-weight: bold;
+    padding: 13px 0;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+
+.btn-submit:hover {
+    background-color: #322e51;
+}

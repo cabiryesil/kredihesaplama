@@ -1,0 +1,42 @@
+.loan-payment-table {
+  padding: 20px;
+}
+
+.responsive-table {
+  max-width: 750px;
+  width: 100%;
+  overflow: auto;
+}
+
+.responsive-table table {
+  padding: 0;
+  table-layout: fixed;
+  position: relative;
+  min-width: 100%;
+}
+
+.responsive-table table tbody tr:nth-child(2n + 1) {
+  background-color: #f3f6f7;
+}
+
+.responsive-table table thead {
+  position: sticky;
+  top: 0;
+}
+
+.responsive-table table th {
+  color: #445056;
+  font-size: 13px;
+  line-height: normal;
+  padding: 15px 19px;
+  border-bottom: 1px solid #e8edf0;
+  text-align: left;
+}
+
+.responsive-table table td {
+  font-size: 13px;
+  line-height: normal;
+  padding: 15px 19px;
+  padding-left: 19px;
+  text-align: left;
+}
