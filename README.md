@@ -1,6 +1,6 @@
 # About This Project
 
-This project, created with React, developed for "Fimple React Practicum" organized by Patika.dev.
+This project, created with React, developed for "Fimple React Practicum" organized by Patika.dev.\
 Demo Link: https://react.minik.app/
 
 ## Available Scripts
