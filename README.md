@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# About This Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project, created with React, developed for "Fimple React Practicum" organized by Patika.dev.
+Demo Link: https://react.minik.app/
 
 ## Available Scripts
 
